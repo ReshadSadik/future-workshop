@@ -1,0 +1,82 @@
+[
+  {
+    "_id": "615a4c6773fe3c83e8940051",
+    "name": "Programming for Kids",
+    "topic": "Python",
+    "price": "800",
+    "instructor": "Prapty Rahman",
+    "img": "image src"
+  },
+  {
+    "_id": "615a4c67e5fd04c03e417896",
+    "name": "Microsoft Powerpoint",
+    "topic": "MS Office 2020",
+    "price": "400",
+    "instructor": "Sadman Sadik",
+    "img": "image src"
+  },
+  {
+    "_id": "615a4c67bb7f2af1b3d0a483",
+    "name": "Cartoon Animation",
+    "topic": "Adobe Character Animator",
+    "price": "550",
+    "instructor": "Antik Mahmud",
+    "img": "image src"
+  },
+  {
+    "_id": "615a4c6745d51b275dad55e9",
+    "name": "Web Design",
+    "topic": "React",
+    "price": "1000",
+    "instructor": "Fahim Murshed",
+    "img": "image src"
+  },
+  {
+    "_id": "615a4c67133960c801764ff0",
+    "name": "Graphic Design",
+    "topic": "Adobe Illustrator",
+    "price": "450",
+    "instructor": "Anisha Saiyara",
+    "img": "image src"
+  },
+  {
+    "_id": "615a4c67133960c801764ff0",
+    "name": "Graphic Design",
+    "topic": "Adobe Illustrator",
+    "price": "450",
+    "instructor": "Anisha Saiyara",
+    "img": "image src"
+  },
+  {
+    "_id": "615a4c67133960c801764ff0",
+    "name": "Graphic Design",
+    "topic": "Adobe Illustrator",
+    "price": "450",
+    "instructor": "Anisha Saiyara",
+    "img": "image src"
+  },
+  {
+    "_id": "615a4c67133960c801764ff0",
+    "name": "Graphic Design",
+    "topic": "Adobe Illustrator",
+    "price": "450",
+    "instructor": "Anisha Saiyara",
+    "img": "image src"
+  },
+  {
+    "_id": "615a4c67133960c801764ff0",
+    "name": "Graphic Design",
+    "topic": "Adobe Illustrator",
+    "price": "450",
+    "instructor": "Anisha Saiyara",
+    "img": "image src"
+  },
+  {
+    "_id": "615a4c67133960c801764ff0",
+    "name": "Graphic Design",
+    "topic": "Adobe Illustrator",
+    "price": "450",
+    "instructor": "Anisha Saiyara",
+    "img": "image src"
+  }
+]
