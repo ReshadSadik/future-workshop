@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import imgs from '../../images/Communication Secrets.jpg';
 
 const NotFound = () => {
   return (
