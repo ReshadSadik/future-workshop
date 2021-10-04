@@ -6,7 +6,7 @@ const Services = () => {
   const [services] = useItems();
 
   return (
-    <div className="" style={{ background: '#e3deec' }}>
+    <div>
       <div className="services  mt-40">
         {services.map((service) => (
           <Service service={service}> </Service>

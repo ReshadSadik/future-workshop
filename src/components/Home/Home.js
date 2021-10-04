@@ -9,7 +9,7 @@ const Home = () => {
 
   const newServices = services.slice(0, 4);
   return (
-    <div style={{ background: '#e3deec' }}>
+    <div>
       <Banner> </Banner>
       <div className="home-services container mx-auto">
         {newServices.map((service) => (

@@ -9,8 +9,7 @@ const Contact = () => {
             Contact Us
           </h1>
           <p class="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical
-            gentrify.
+            Feel free to ask us anything
           </p>
         </div>
         <div class="lg:w-1/2 md:w-2/3 mx-auto">
@@ -54,18 +53,11 @@ const Contact = () => {
               </div>
             </div>
             <div class="p-2 w-full">
-              <button class="flex mx-auto text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">
-                Button
+              <button class="flex mx-auto text-white bg-purple-800 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">
+                Submit
               </button>
             </div>
             <div class="p-2 w-full pt-8 mt-8 border-t border-gray-200 text-center">
-              <a href="/" class="text-indigo-500">
-                example@email.com
-              </a>
-              <p class="leading-normal my-5">
-                49 Smith St.
-                {/* <br>Saint Cloud, MN 56301 </br> */}
-              </p>
               <span class="inline-flex">
                 <a href="/" class="text-gray-500">
                   <svg
