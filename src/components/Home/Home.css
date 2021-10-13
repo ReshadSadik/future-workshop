@@ -1,4 +1,14 @@
 .home-services {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  position: relative;
+  top: -70px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+}
+
+@media screen and (max-width: 1030px) and (min-width: 770px) {
+  .home-services {
+    top: 0;
+  }
 }

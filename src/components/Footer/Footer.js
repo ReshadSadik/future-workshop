@@ -3,10 +3,7 @@ import React from 'react';
 const Footer = () => {
   return (
     <div>
-      <footer
-        style={{ background: '#936ab4' }}
-        className="text-white body-font"
-      >
+      <footer className="text-white body-font bg-green-600">
         <div className="container px-5 py-20 mx-auto flex md:items-center lg:items-start md:flex-row md:flex-nowrap flex-wrap flex-col">
           <div className=" flex-shrink-0 md:mx-0 mx-auto  text-center md:text-left">
             <a
@@ -106,7 +103,7 @@ const Footer = () => {
             </div>
           </div>
         </div>
-        <div className="bg-purple-600" style={{ background: '#7b5997' }}>
+        <div className="bg-green-700">
           <div className="container mx-auto text-center  py-4 px-5 flex flex-wrap flex-col sm:flex-row">
             <p className="text-white font-bold text-sm mx-auto ">
               © 2021 FUTURE WORKSHOP —

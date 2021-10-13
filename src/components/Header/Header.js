@@ -6,8 +6,8 @@ const Header = () => {
   return (
     <div>
       <div class="  font-sans leading-normal tracking-normal">
-        <nav class="flex items-center  justify-between flex-wrap  p-6  tt  w-full z-10 top-0  shadow-sm">
-          <div class="flex items-center ml-40  flex-shrink-0 text-white mr-6">
+        <nav class="flex items-center  justify-between flex-wrap  p-6  w-full z-10 top-0 ">
+          <div class="flex items-center md:ml-40 ml-0  flex-shrink-0 text-white mr-6">
             <a
               class="text-purple-200 font-extrabold no-underline hover:text-white hover:no-underline"
               href="/"

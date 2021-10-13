@@ -1,35 +1,47 @@
 [
   {
     "_id": "615a4c6773fe3c83e8940051",
-    "name": "Programming for Kids",
-    "topic": "Help your kids to learn the basics of computer programming using java script blocks & create apps, games & websites with this course!",
-    "price": "800",
+    "name": "Home Workout",
+    "topic": "Daily no equipment workout ",
+    "price": "170",
     "instructor": "Prapty Rahman",
-    "img": "/images/Programming.jpg"
+    "instructorImg": "/images/trainers/darryl-removebg-preview.png",
+    "backgroundImg": "https://images.pexels.com/photos/6740753/pexels-photo-6740753.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "top": "-60",
+    "left": "0"
   },
   {
     "_id": "615a4c67e5fd04c03e417896",
-    "name": "Microsoft Powerpoint",
-    "topic": "Learn PowerPoint from Beginner to Expert Level now in just one online course. 50 PowerPoint online tutorials are there to take you to the next level.",
-    "price": "400",
+    "name": "Yoga Freestyle",
+    "topic": "Freestyle yoga instruction anytime",
+    "price": "80",
     "instructor": "Sadman Sadik",
-    "img": "/images/powerpoint.jpg"
+    "instructorImg": "/images/trainers/dustin-removebg-preview.png",
+    "backgroundImg": "https://cdn.pixabay.com/photo/2018/01/01/01/56/yoga-3053488_960_720.jpg",
+    "top": "-130",
+    "left": "0"
   },
   {
     "_id": "615a4c67bb7f2af1b3d0a483",
-    "name": "Cartoon Animation",
-    "topic": "Want new cartoon drawing ideas? Enroll in Cartoon Animation Online class with 10 tutorial videos, quiz and notes.",
-    "price": "550",
+    "name": "Weight Loss",
+    "topic": "Get back to shape in 15 weeks",
+    "price": "250",
     "instructor": "Antik Mahmud",
-    "img": "/images/Cartoon.jpg"
+    "instructorImg": "/images/trainers/gregg-removebg-preview.png",
+    "backgroundImg": "https://images.pexels.com/photos/6550872/pexels-photo-6550872.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    "top": "-60",
+    "left": "0"
   },
   {
     "_id": "615a4c6745d51b275dad55e9",
-    "name": "Web Design",
-    "topic": "A complete guideline of website designing through 46 Web design tutorial, quiz, notes and many more.",
-    "price": "1000",
+    "name": "Healthy Diet",
+    "topic": "you will know what a healthy diet",
+    "price": "100",
     "instructor": "Fahim Murshed",
-    "img": "/images/WebDesign.jpg"
+    "instructorImg": "/images/trainers/jamie-removebg-preview.png",
+    "backgroundImg": "https://cdn.pixabay.com/photo/2019/07/25/17/22/diet-4363111_960_720.jpg",
+    "top": "-150",
+    "left": "510"
   },
   {
     "_id": "615a4c67133960c801764ff0",
@@ -37,46 +49,9 @@
     "topic": "Graphic Design Course is now online. Learn graphic design with PowerPoint and become a pro in it.",
     "price": "450",
     "instructor": "Anisha Saiyara",
-    "img": "/images/Graphic.jpg"
-  },
-  {
-    "_id": "615a4c67133960c801764ff0",
-    "name": "Microsoft Excel",
-    "topic": "Learn Microsoft Excel online from beginner to expert level",
-    "price": "350",
-    "instructor": "Sadman Sadik",
-    "img": "/images/MicrosoftExcel.jpg"
-  },
-  {
-    "_id": "615a4c67133960c801764ff0",
-    "name": "CV Writing Skills",
-    "topic": "Master the essentials of writing your CV and give your interview preparation",
-    "price": "400",
-    "instructor": "Ayman Sadik",
-    "img": "/images/CV.jpg"
-  },
-  {
-    "_id": "615a4c67133960c801764ff0",
-    "name": "Negotiation Skills",
-    "topic": "Master the skills and strategies of negotiation and become a persuasive negotiator",
-    "price": "500",
-    "instructor": "Ejazur Rahman",
-    "img": "/images/Negotiation.jpg"
-  },
-  {
-    "_id": "615a4c67133960c801764ff0",
-    "name": "Wedding Photography",
-    "topic": "Learn with the best to perform the master of capturing images",
-    "price": "700",
-    "instructor": "Prito Reza",
-    "img": "/images/Wedding.jpg"
-  },
-  {
-    "_id": "615a4c67133960c801764ff0",
-    "name": "Job Preparation",
-    "topic": "Pera nai Chill!!",
-    "price": "50",
-    "instructor": "Solaiman Shanti",
-    "img": "/images/jobprep.jpg"
+    "instructorImg": "/images/trainers/jhon-removebg-preview.png",
+    "backgroundImg": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg",
+    "position": "60",
+    "left": "0"
   }
 ]

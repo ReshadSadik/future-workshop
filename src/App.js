@@ -7,6 +7,8 @@ import Services from './components/Services/Services';
 import Contact from './components/Contact/Contact';
 import About from './components/About/About';
 import NotFound from './components/NotFound/NotFound';
+import Swipe from './components/Slider/Slider';
+import Slideshow from './components/Slider/Slider';
 
 function App() {
   return (
